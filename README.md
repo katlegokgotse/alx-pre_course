@@ -1,1 +1,1 @@
-My first readme, wassup!
+My first readme
